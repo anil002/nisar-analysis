@@ -1,0 +1,32 @@
+# Virtual Environment
+nisar_env/
+venv/
+env/
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (large)
+*.h5
+*.hdf5
+*.nc
+
+# Output files
+nisar_analysis_outputs/
+*.csv
+*.geojson
+*.txt
